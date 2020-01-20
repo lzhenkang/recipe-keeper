@@ -1,0 +1,29 @@
+{
+  "name": "recipe-keeper",
+  "version": "1.0.0",
+  "description": "Create an online recipe keeper.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "jsonfile": "^5.0.0",
+    "express-react-views": "^0.11.0",
+    "method-override": "^3.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdi-sg/recipe-keeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdi-sg/recipe-keeper/issues"
+  },
+  "homepage": "https://github.com/wdi-sg/recipe-keeper#readme"
+}
